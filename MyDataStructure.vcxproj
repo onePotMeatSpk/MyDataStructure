@@ -146,6 +146,7 @@
     <ClInclude Include="MergeSort.h" />
     <ClInclude Include="MyArray.hpp" />
     <ClInclude Include="MyDoubleLinkedList.hpp" />
+    <ClInclude Include="MyHeap.h" />
     <ClInclude Include="MySinglyLinkedList.hpp" />
     <ClInclude Include="MyTree.hpp" />
     <ClInclude Include="SinglePointerQuickSort.h" />
